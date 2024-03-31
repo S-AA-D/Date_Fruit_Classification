@@ -1,1 +1,6 @@
-
+torch==2.2.1
+pathlib
+zipfile
+torchvision
+matplotlib
+torchinfo
