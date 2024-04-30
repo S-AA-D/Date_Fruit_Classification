@@ -4,3 +4,8 @@ zipfile
 torchvision
 matplotlib
 torchinfo
+numpy
+sklearn
+tqdm
+timeit
+requests
